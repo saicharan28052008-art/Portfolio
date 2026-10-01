@@ -164,9 +164,6 @@ main {
     margin-top: 20px;
 }
 
-
-/* ==================== BUTTONS ==================== */
-
 .buttons {
     display: flex;
     gap: 14px;
@@ -197,9 +194,6 @@ button:hover {
     background: transparent;
     border: 1px solid #7057e8;
 }
-
-
-/* ==================== CARDS ==================== */
 
 .hero-card,
 .box,
